@@ -1,0 +1,55 @@
+﻿  Main.cpp
+C:\Users\User\source\repos\Project8\Project8\Player.h(51,53): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+C:\Users\User\source\repos\Project8\Project8\Player.h(51,50): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+C:\Users\User\source\repos\Project8\Project8\Player.h(67,17): warning C4551: в вызове функции отсутствует список аргументов
+C:\Users\User\source\repos\Project8\Project8\Player.h(73,1): warning C4305: =: усечение из "double" в "float"
+C:\Users\User\source\repos\Project8\Project8\Player.h(74,55): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+C:\Users\User\source\repos\Project8\Project8\Player.h(74,52): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+C:\Users\User\source\repos\Project8\Project8\Player.h(81,1): warning C4305: =: усечение из "double" в "float"
+C:\Users\User\source\repos\Project8\Project8\Player.h(82,56): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+C:\Users\User\source\repos\Project8\Project8\Player.h(82,52): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+C:\Users\User\source\repos\Project8\Project8\Player.h(89,1): warning C4305: =: усечение из "double" в "float"
+C:\Users\User\source\repos\Project8\Project8\Player.h(98,1): warning C4305: =: усечение из "double" в "float"
+C:\Users\User\source\repos\Project8\Project8\Player.h(117,12): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\source\repos\Project8\Project8\Player.h(125,28): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\source\repos\Project8\Project8\Player.h(127,28): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\source\repos\Project8\Project8\Player.h(134,14): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\source\repos\Project8\Project8\Player.h(135,15): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\source\repos\Project8\Project8\Player.h(219,13): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\source\repos\Project8\Project8\Player.h(224,13): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\source\repos\Project8\Project8\Player.h(281,28): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\source\repos\Project8\Project8\Player.h(283,28): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\source\repos\Project8\Project8\View.h(34,18): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\source\repos\Project8\Project8\View.h(38,19): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\source\repos\Project8\Project8\View.h(42,21): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\source\repos\Project8\Project8\View.h(47,22): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\source\repos\Project8\Project8\Menu.h(55,69): warning C4244: аргумент: преобразование "const int" в "float", возможна потеря данных
+C:\Users\User\source\repos\Project8\Project8\Menu.h(55,33): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\source\repos\Project8\Project8\StartGame.h(141,14): warning C4244: инициализация: преобразование "sf::Int64" в "float", возможна потеря данных
+C:\Users\User\source\repos\Project8\Project8\StartGame.h(236,33): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\source\repos\Project8\Project8\StartGame.h(236,25): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  Project8.vcxproj -> C:\Users\User\source\repos\Project8\x64\Debug\Project8.exe
